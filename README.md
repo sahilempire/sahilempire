@@ -1,23 +1,20 @@
-### Hi there 👋
-
-<!--
-**sahilempire/sahilempire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h1 align="center">Hi 👋, I'm Sahil Gupta</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilempire" alt="sahilempire" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [http://sahilics.000webhostapp.com](http://sahilics.000webhostapp.com)
 
+- 📝 I regularly write articles on [Web Development and Designing](Web Development and Designing)
+
 - 📫 How to reach me **yoursahilgupta@gmail.com**
+
+- ⚡ Fun fact **According to me, The Root is at the top of the Tree.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hisahilgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hisahilgupta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sahilempire" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahilempire" height="30" width="40" /></a>
+<a href="https://instagram.com/sahilgupta.28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sahilgupta.28" height="30" width="40" /></a>
+  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400" height="320" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width:100%;">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,5 +23,3 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilempire&show_icons=true&locale=en&layout=compact" alt="sahilempire" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilempire&show_icons=true&locale=en" alt="sahilempire" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilempire&" alt="sahilempire" /></p>
