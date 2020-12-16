@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">, I'm Sahil Gupta</h1>
 <h3 align="center">A passionate and Creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;.🎯</h3>
 
-<br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="320" />
+
 <br>
 
 - 👨‍💻 Kindly visit my Portfolio link [http://sahilics.000webhostapp.com](http://sahilics.000webhostapp.com)
@@ -85,12 +86,3 @@
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/sahilempire/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:yoursahilgupta@gmail.com) 💌 <br>
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hisahilgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hisahilgupta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sahilempire" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahilempire" height="30" width="40" /></a>
-<a href="https://instagram.com/sahilgupta.28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sahilgupta.28" height="30" width="40" /></a>
-  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400" height="320" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width:100%;">
-</p>
