@@ -21,7 +21,7 @@
 
 <p float="left">
   <a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  height="90" width="90" />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="90" height="90"/> </a>  
   <a href="https://www.php.net" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="70" height="70"/> </a> 
