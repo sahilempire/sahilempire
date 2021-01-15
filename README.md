@@ -3,7 +3,7 @@
   A passionate and Creative developer from 🇮🇳 (https://en.wikipedia.org/wiki/India)&nbsp;.🎯
 </h3>
 
-<img align="right" alt="GIF" src="66833e07d6fb9eb5d724e47d0c814285.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="66833e07d6fb9eb5d724e47d0c814285.gif" width="400" height="300" />
 
 <br>
 
