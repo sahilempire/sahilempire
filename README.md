@@ -42,14 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="70" height="70"/> </a>
     
   </p>
-  
-#### Designing
->
-</a> 
-  
-  </p>
-  
-  
+   
   ### Frameworks
   
  <p float="left>
