@@ -1,6 +1,6 @@
 <h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> I'm Sahil Gupta</h1>
 <h3 align="center">
-  A passionate and Creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;.🎯
+  A passionate and Creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; .🎯
 </h3>
 
 <img align="right" alt="GIF" src="66833e07d6fb9eb5d724e47d0c814285.gif" width="400" height="300" />
