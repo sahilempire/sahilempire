@@ -44,7 +44,7 @@
   </p>
   
 #### Designing
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="70" height="70"/>
+>
 </a> 
   
   </p>
