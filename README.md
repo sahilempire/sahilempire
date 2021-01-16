@@ -76,5 +76,6 @@
 
   ⦿ Visit my [Website](http://sahilics.000webhostapp.com) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/sahilempire/) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/hisahilgupta) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:yoursahilgupta@gmail.com) 💌 <br>
 
