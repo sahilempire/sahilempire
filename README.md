@@ -40,8 +40,8 @@
  <a href="https://www.w3schools.com/javascript/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="css3" width="70" height="70"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="70" height="70"/> </a>
-    
-  </p>
+  <a href="https://reactnative.dev/" target="_blank"> <img src="react.gif" alt="css3" width="70" height="70"/> </a>
+    </p>
    
   ### Frameworks
   
