@@ -9,7 +9,7 @@
 
 - 👨‍💻 Kindly visit my Portfolio link [http://sahilics.000webhostapp.com](http://sahilics.000webhostapp.com)
 
-- 📝 I regularly write articles on (Web Development and Designing)
+- 📝 Have a huge curiocity to learn some new Techs (Development and Designing)
 
 - 📫 How to reach me **yoursahilgupta@gmail.com**
 
