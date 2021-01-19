@@ -9,8 +9,6 @@
 
 - 👨‍💻 Kindly visit my Portfolio link [http://sahilics.000webhostapp.com](http://sahilics.000webhostapp.com)
 
-- 📝 Have a huge curiosity to learn about new techs (Development and Designing)
-
 - 📫 How to reach me **yoursahilgupta@gmail.com**
 
 - ⚡ Fun fact **According to me, The Root is at the top of the Tree.**
