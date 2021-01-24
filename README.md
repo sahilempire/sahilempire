@@ -33,9 +33,9 @@
  
   <p float="left>
   
-  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="css3" width="70" height="70"/> </a>
+  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="70" height="70"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="70" height="70"/> </a>
- <a href="https://www.w3schools.com/javascript/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="css3" width="70" height="70"/> </a>
+ <a href="https://www.w3schools.com/javascript/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="70" height="70"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="70" height="70"/> </a>
     </p>
