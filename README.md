@@ -64,10 +64,8 @@
 <details>
 <summary>📈 My Top Langs</summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilempire&show_icons=true&locale=en&layout=compact" alt="sahilempire" /></p>
-
-
-
 </details>
+
 
 ### 📫 How to reach me? 
 
