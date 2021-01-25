@@ -56,15 +56,15 @@
  <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilempire&show_icons=true&locale=en&layout=compact" alt="sahilempire" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilempire&show_icons=true&locale=en" alt="sahilempire" /></p>
 
 
 </details>
 
 <details>
 <summary>📈 My Top Langs</summary>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilempire&show_icons=true&locale=en&layout=compact" alt="sahilempire" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilempire&show_icons=true&locale=en" alt="sahilempire" /></p>
 
 
 </details>
