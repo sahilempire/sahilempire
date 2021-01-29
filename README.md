@@ -28,10 +28,7 @@
 
  </p>
 
-
-
  ### Frontend Development
- 
  
   <p float="left>
   
