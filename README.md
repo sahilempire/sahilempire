@@ -26,6 +26,7 @@
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="90" height="90"/> </a>  
   <a href="https://www.php.net" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="70" height="70"/> </a> 
   
+  
  </p>
 
  ### Frontend Development
