@@ -23,9 +23,8 @@
   <a href="https://python.org/" target="_blank" >
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  height="90" width="90" />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="90" height="90"/> </a>  
-  <a href="https://www.php.net" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="70" height="70"/> </a> 
-  
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="90" height="90"/> </a>
+  <a href="https://en.wikipedia.org/wiki/CPP" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="90" height="90"/> </a>
   </p>
 
  ### Frontend Development
@@ -64,12 +63,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilempire&show_icons=true&locale=en&layout=compact" alt="sahilempire" /></p>
 </details>
 
-
-
-### 📫 How to reach me? 
-
-  ⦿ Visit my [Website](http://sahilics.000webhostapp.com) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/sahilempire/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/hisahilgupta) 🐦 <br>
-  ⦿ Shoot Me an [Email](mailto:yoursahilgupta@gmail.com) 💌 <br>
 
