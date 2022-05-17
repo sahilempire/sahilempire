@@ -49,24 +49,22 @@
   <a href="https://cloud.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="git" width="70" height="70"/> </a>
   </p>
 
-### My Stats🚩
-
- <details>
-<summary>📈 My GitHub Stats</summary>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilempire&show_icons=true&locale=en" alt="sahilempire" /></p>
-
+## 📊 Github Stats (Expand to View) 
+  <details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahilempire&show_icons=true&locale=en" alt="sahilempire" />
 </details>
-
+  <details>
+  <summary><b>📈 My Top Languages</b></summary>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilempire&show_icons=true&locale=en&layout=compact" alt="sahilempire" />
+</details>
 <details>
-<summary>📈 My Top Langs</summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilempire&show_icons=true&locale=en&layout=compact" alt="sahilempire" /></p>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/sahilempire"><img alt="Sahil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sahilempire&theme=dracula" /></a>
+  <br/>
 </details>
-
-
 <!-- 
- 
- 
  
  Web Developer and Machine Leaner
 --------------------------------
@@ -123,6 +121,14 @@ Drive by Web! Describe as Codes!
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
  -->
-### Support Me
+ 
+ 
+ ## 📫 How to reach me? 
+ 
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/sahilempire) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/sahilgupta.28) 🐦 <br>
+  ⦿ Shoot Me an [Email](mailto:yoursahilgupta@gmail.com) 💌 <br>
+
+## Support Me
 
 <a href="https://www.buymeacoffee.com/sahilempire"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
