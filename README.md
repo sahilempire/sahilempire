@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **According to me, The Root is at the top of the Tree.**
 
-:zap:**My Technical Stack Distribution** 📊
+## :zap:**My Technical Stack Distribution** 📊
 
 ### Programing Languages
 
