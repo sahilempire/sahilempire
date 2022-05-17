@@ -126,7 +126,7 @@ Drive by Web! Describe as Codes!
  ## 📫 How to reach me? 
  
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/sahilempire) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/sahilgupta.28) 🐦 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/sahilgupta_28) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:yoursahilgupta@gmail.com) 💌 <br>
 
 ## Support Me
