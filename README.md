@@ -52,12 +52,11 @@
 ## 📊 Github Stats (Expand to View) 
   <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
-<p align="center"> <img src="[https://github-readme-stats.vercel.app/api?username=sahilempire&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=sahilempire&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)" alt="sahilempire's Github Stats" />
+<p align="center"> <img src="[https://github-readme-stats.vercel.app/api?username=sahilempire&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=sahilempire&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)" alt="sahilempire" />
 </details>
-  <details>
-  <summary><b>📈 My Top Languages</b></summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilempireayout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/sahilempire/github-readme-stats)" alt="sahilempire" />
-</details>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilempire&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/sahilempire/github-readme-stats)
+
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
