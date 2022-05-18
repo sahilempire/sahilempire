@@ -128,6 +128,7 @@ Drive by Web! Describe as Codes!
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/sahilempire) 👨🏻‍💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/hisahilgupta) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:yoursahilgupta@gmail.com) 💌 <br>
+  ⦿ [GitHub Profile Summary](https://profile-summary-for-github.com/user/sahilempire) ⚡ <br>
 
 ## Support Me
 
