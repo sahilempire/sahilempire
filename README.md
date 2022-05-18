@@ -56,10 +56,14 @@
 </details>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilempire&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/sahilempire/github-readme-stats)
+
+ <details>
+  <summary><b>💻 Top Languages</b> </summary>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilempire&layout=compact&text_color=daf7dc&bg_color=151515" alt="sahilempire" />
+</details>
 
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b> Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/sahilempire"><img alt="Sahil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sahilempire&theme=dracula" /></a>
   <br/>
