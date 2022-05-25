@@ -6,11 +6,17 @@
 <!--   <img align="right" alt="GIF" src="7jd9.gif" width="400" height="300" /> -->
 </br>
 
-- 👨‍💻 Kindly visit my Portfolio link [http://sahilics.000webhostapp.com](http://sahilics.000webhostapp.com)
+<!-- - 👨‍💻 Kindly visit my Portfolio link [http://sahilics.000webhostapp.com](http://sahilics.000webhostapp.com)
 
 - 📫 How to reach me **yoursahilgupta@gmail.com**
 
-- ⚡ Fun fact **According to me, The Root is at the top of the Tree.**
+- ⚡ Fun fact **According to me, The Root is at the top of the Tree.** -->
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [yoursahilgupta@gmail.com](mailto:yoursahilgupta@gmail.com)
+* 🧠  I'm learning Natural Language Processing
+* 🤝  I'm open to collaborating on any project relted to web and AI/ML
+* ⚡  According to me, The Root is at the top of the Tree.
 
 ## :zap:**My Technical Stack Distribution** 📊
 
