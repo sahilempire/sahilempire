@@ -3,7 +3,7 @@
   Drive by Web! Describe as Codes!!! <a href="https://en.wikipedia.org/wiki/India"></a> 🎯
 </h3>
 <br>
-  <img align="right" alt="GIF" src="7jd9.gif" width="400" height="300" />
+<!--   <img align="right" alt="GIF" src="7jd9.gif" width="400" height="300" /> -->
 </br>
 
 - 👨‍💻 Kindly visit my Portfolio link [http://sahilics.000webhostapp.com](http://sahilics.000webhostapp.com)
