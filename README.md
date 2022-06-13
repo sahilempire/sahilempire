@@ -9,7 +9,7 @@
 * 🤝  I'm open to collaborating on any project relted to web and AI/ML
 * ⚡  According to me, The Root is at the top of the Tree.
 
-## :zap:**My Technical Stack Distribution** 📊
+<!-- ## :zap:**My Technical Stack Distribution** 📊
 
 ### Programing Languages
 
@@ -41,7 +41,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> </a>
   <a href="https://code.visualstudio.com//" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="git" width="70" height="70"/> </a>
   <a href="https://cloud.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="git" width="70" height="70"/> </a>
-  </p>
+  </p> -->
 
 ## 📊 Github Stats (Expand to View) 
   <details>
