@@ -142,7 +142,11 @@ Drive by Web! Describe as Codes!
 </h3>
 
 # 💫 About Me:
-🌍 I'm based in India<br>🧠 Currently I'm working on MLOps<br>✉️ You can contact me at yoursahilgupta@gmail.com<br>🤝 I'm open to collaborating on any project related to web and AI/ML<br>⚡ According to me, The Root is at the top of the Tree!
+🌍 I'm based in India<be>
+🧠Currently I'm working on MLOps<be>
+✉️ You can contact me at gsahil.sg20@gmail.com<br>
+🤝 I'm open to collaborating on any project related to web and AI/ML<br>
+⚡ According to me, The Root is at the top of the Tree!
 
 
 ## 🌐 Socials:
